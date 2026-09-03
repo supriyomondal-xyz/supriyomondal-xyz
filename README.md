@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyomondal-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="supriyomondal-xyz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🚀 My Project **Campus-Connect is Live at: [https://supriyomondal-xyz.github.io/Campus-Connect-/](https://supriyomondal-xyz.github.io/Campus-Connect-/)**
 
 - 📫 How to reach me **supriyomondal5432@gmail.com**
 
@@ -20,9 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriyomondal-xyz&show_icons=true&locale=en&layout=compact" alt="supriyomondal-xyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyomondal-xyz&show_icons=true&locale=en" alt="supriyomondal-xyz" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=supriyomondal-xyz&theme=dark" alt="streak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyomondal-xyz&" alt="supriyomondal-xyz" /></p>
 
