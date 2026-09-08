@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyomondal-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="supriyomondal-xyz" /> </p>
 
-- 🚀 My Project **Campus-Connect is Live at: [https://supriyomondal-xyz.github.io/Campus-Connect-/](https://supriyomondal-xyz.github.io/Campus-Connect-/)**
 
 - 📫 How to reach me **supriyomondal5432@gmail.com**
 
